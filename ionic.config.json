@@ -1,0 +1,7 @@
+{
+  "name": "airbnb-demo-ionic-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
