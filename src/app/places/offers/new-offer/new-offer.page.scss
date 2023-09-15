@@ -1,0 +1,16 @@
+.output2 {
+    height: 100%;
+    width: 100%;
+    
+    overflow: hidden; /*remove this line to see that it is overlapping */
+}
+
+.map_panel {
+    height: 100%;
+    width: 100%; /*changed the width from 50% to 100% so it is overlaping */
+}
+
+#map{
+  height: 100%;
+  width: 100%;
+}
